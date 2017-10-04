@@ -1,0 +1,36 @@
+.ui.borderless.topmenu.menu {
+  padding: 10px;
+  border-color: #f5f5f5;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.toptopmenu.menu {
+  padding: 10px;
+  border-color: #f5f5f5;
+  box-shadow: none;
+  border: none;
+}
+
+ui.centered.topimage.image {
+  padding: 50px;
+}
+
+.fitted.red.item {
+  color: #e52a33;
+}
+
+.text.welcome {
+  padding-top: 20px;
+  padding-left: 160px;
+  font-size: 17px;
+}
+
+.undermenu.background {
+  height: 500px;
+  background-color: whitesmoke;
+}
+
+.ui.centered.pizza.image {
+  padding: 20px;
+}
